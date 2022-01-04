@@ -6,5 +6,3 @@ This is quite small SpireKit project. It is the game for iPad 9.7-inch, where th
 
 # Technologies 
 * SpireKit
-* SKEmitterNode 
-* SKAction
